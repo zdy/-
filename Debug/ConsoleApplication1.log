@@ -1,0 +1,19 @@
+﻿  main.cpp
+c:\users\asus\desktop\2017c语言课程设计\main.cpp(49): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+c:\users\asus\desktop\2017c语言课程设计\main.cpp(50): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note: 参见“strcat”的声明
+c:\users\asus\desktop\2017c语言课程设计\main.cpp(51): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note: 参见“strcat”的声明
+  login_q.cpp
+c:\users\asus\desktop\2017c语言课程设计\login_q.cpp(17): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+c:\users\asus\desktop\2017c语言课程设计\login_q.cpp(19): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+c:\users\asus\desktop\2017c语言课程设计\login_q.cpp(20): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+c:\users\asus\desktop\2017c语言课程设计\login_q.cpp(32): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+  正在生成代码...
+  ConsoleApplication1.vcxproj -> C:\Users\asus\Desktop\2017c语言课程设计\Debug\ConsoleApplication1.exe
+  ConsoleApplication1.vcxproj -> C:\Users\asus\Desktop\2017c语言课程设计\Debug\ConsoleApplication1.pdb (Full PDB)
